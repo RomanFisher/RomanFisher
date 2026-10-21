@@ -50,22 +50,8 @@
 <summary><b>⚡ Fun facts</b></summary>
 <br/>
 
+- ☕ Code runs on coffee
 - 🐛 Favorite bug: the one that fixes itself after a restart
 - 🎯 Current goal: ship more side projects
 
 </details>
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RomanFisher&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanFisher&layout=compact&theme=github_dark&hide_border=true&hide=css,html,scss&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RomanFisher&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/58a6ff/RomanFisher" />
-</p>
